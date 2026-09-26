@@ -4,4 +4,4 @@ This is my first Git and GitHub exercise.
 
 ## Student
 
-Finn Vanmontfort
+Finn Vanmontfort 2SNEB
